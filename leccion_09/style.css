@@ -1,0 +1,11 @@
+*{ color: gray;
+}
+span{
+    font-weight: bold;
+}
+p>span{
+    background-color: yellow;
+}
+div>span{
+    background-color: red;
+}
